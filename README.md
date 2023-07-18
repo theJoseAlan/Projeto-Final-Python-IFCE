@@ -5,7 +5,7 @@
 
 Sistema produzido para avaliação para conclusão do curso básico de python ofertado pelo IFCE - campus Crateús.
 
-O sistema simula operações Create, Read e Delete, o Uptade não foi uma exigência dos requistos, mas será implementado futuramente bem como um save em banco de dados ou arquivo.txt
+O sistema simula operações Create, Read e Delete. O Uptade não foi uma exigência dos requistos, mas será implementado futuramente bem como um save em banco de dados ou arquivo.txt
 
 ## Requisitos do sistema 📄
 
